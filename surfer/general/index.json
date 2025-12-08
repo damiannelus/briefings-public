@@ -1,1 +1,24 @@
-{ "2025": { "12": [] } }
+{
+  "profile": "general",
+  "content_type": "surfer",
+  "items": [
+    {
+      "filename": "2025/12/briefing_20251208_075730.md",
+      "created_at": "2025-12-08 07:57:30",
+      "title": "briefing_20251208_075730.md",
+      "slug": "briefing-20251208-075730"
+    },
+    {
+      "filename": "2025/12/briefing_20251208_190346.md",
+      "created_at": "2025-12-08 19:03:46",
+      "title": "BRIEFING DZIENNY - 2025-12-08 19:03:46",
+      "slug": "briefing-20251208-190346"
+    },
+    {
+      "filename": "2025/12/briefing_20251209_080015.md",
+      "created_at": "2025-12-09 08:00:15",
+      "title": "briefing_20251209_080015.md",
+      "slug": "briefing-20251209-080015"
+    }
+  ]
+}

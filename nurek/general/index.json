@@ -1,1 +1,12 @@
-{ "2025": { "12": [] } }
+{
+  "profile": "general",
+  "content_type": "nurek",
+  "items": [
+    {
+      "filename": "2025/12/report_20251210_ai_regulacje.md",
+      "created_at": null,
+      "title": "report_20251210_ai_regulacje.md",
+      "slug": "report-20251210-ai-regulacje"
+    }
+  ]
+}
