@@ -4,8 +4,8 @@ from datetime import datetime
 
 ROOT = r"C:\Programowanie\vibe\briefings-public"
 
-SURFER_PROFILES = ["general", "professional", "ksiegowy"]
-NUREK_PROFILES = ["general", "professional", "ksiegowy"]  # na razie pusta/dummy
+SURFER_PROFILES = ["general", "professional", "ksiegowy", "professional_tech_leadership"]
+NUREK_PROFILES = ["general", "professional", "ksiegowy", "professional_tech_leadership"]  # na razie pusta/dummy
 
 def parse_created_at_from_filename(fname: str) -> str | None:
     # briefing_YYYYMMDD_HHMMSS.md -> "YYYY-MM-DD HH:MM:SS"
