@@ -5,7 +5,7 @@ from datetime import datetime
 SOURCE_ROOT = r"C:\Programowanie\vibe\news_feed_analyzer"
 TARGET_ROOT = r"C:\Programowanie\vibe\briefings-public"
 
-PROFILES = ["general", "professional", "ksiegowy"]
+PROFILES = ["general", "professional", "ksiegowy", "professional_tech_leadership"]
 
 def sync_surfer():
     for profile in PROFILES:
