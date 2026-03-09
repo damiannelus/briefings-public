@@ -12,6 +12,7 @@ PROFILES = [
     "professional_tech_leadership",
     "fintech",
     "KSA_venture_building",
+    "AI-Developer_Manager",
 ]
 
 def sync_surfer():
